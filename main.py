@@ -23,9 +23,11 @@ def menu_principal(stdscr):
         stdscr.addstr(7, 4, "Escolha uma opcao: ")
         stdscr.refresh()
 
-        if stdscr.getch() == 1:
+        opcao = stdscr.getch()
+
+        if opcao == 1:
             testbench(stdscr)
-        elif stdscr.getch() == 2:
+        elif opcao == 2:
             break
 
 
