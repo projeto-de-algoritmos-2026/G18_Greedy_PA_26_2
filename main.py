@@ -25,9 +25,9 @@ def menu_principal(stdscr):
 
         opcao = stdscr.getch()
 
-        if opcao == 1:
+        if opcao == 49:
             testbench(stdscr)
-        elif opcao == 2:
+        elif opcao == 50:
             break
 
 
