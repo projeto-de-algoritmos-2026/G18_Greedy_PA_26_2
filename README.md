@@ -6,10 +6,10 @@ O projeto utiliza o **Algoritmo Guloso (Greedy Algorithm)** para calcular matema
 
 ## Estudantes
 
-|Aluno|Matrícula|
+|Matrícula|Aluno|
 |---|---|
-|Josef Wojtyla Barros de Souza|251023282|
-|Eduardo de Sousa Brito|2510|
+|251023282|Josef Wojtyla Barros de Souza|
+|251020226|Eduardo de Sousa Brito|
 
 ## Pré-requisitos
 
