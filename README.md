@@ -3,7 +3,7 @@
 ---
 
 *Número da Lista*: 18  
-*Conteúdo da disciplina*: Grafo 1
+*Conteúdo da disciplina*: Greedy Algorithms (Algoritmos Ambiciosos)
 
 ---
 
