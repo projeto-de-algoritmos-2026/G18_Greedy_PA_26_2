@@ -1,8 +1,11 @@
-# Troco Ambicioso (Simulador com Algoritmo Guloso)
+# G18_Greedy_PA-26.2
 
-Um minigame de terminal desenvolvido em Python onde o jogador atua como caixa de uma loja. O objetivo é entregar o troco correto para o cliente utilizando a **menor quantidade de moedas possível** antes que o tempo acabe. 
+---
 
-O projeto utiliza o **Algoritmo Guloso (Greedy Algorithm)** para calcular matematicamente o gabarito do troco perfeito a cada rodada.
+*Número da Lista*: 18  
+*Conteúdo da disciplina*: Grafo 1
+
+---
 
 ## Estudantes
 
@@ -11,16 +14,31 @@ O projeto utiliza o **Algoritmo Guloso (Greedy Algorithm)** para calcular matema
 |251023282|Josef Wojtyla Barros de Souza|
 |251020226|Eduardo de Sousa Brito|
 
+# Troco Ambicioso (Simulador com Algoritmo Guloso)
+
+Um minigame de terminal desenvolvido em Python onde o jogador atua como caixa de uma loja. O objetivo é entregar o troco correto para o cliente utilizando a **menor quantidade de moedas possível** antes que o tempo acabe. 
+
+O projeto utiliza o **Algoritmo Guloso (Greedy Algorithm)** para calcular matematicamente o gabarito do troco perfeito a cada rodada.
+
+---
+
+## Vídeo de Apresentação
+
+[YouTube](https://youtu.be/fq7J5TTMobI)
+
+---
+
 ## Pré-requisitos
 
 Para rodar este jogo, você precisará ter o **Python 3.x** instalado na sua máquina.
+
+---
 
 ## Como Rodar o Jogo
 
 O jogo utiliza a biblioteca `curses` para desenhar a interface no terminal. O processo de execução varia um pouco dependendo do seu Sistema Operacional:
 
-> Linux (Ubuntu, Debian, etc) e macOS
-No Linux e no macOS, a biblioteca `curses` já vem embutida por padrão na instalação do Python.
+> No Linux (Ubuntu, Debian, etc) e macOS, a biblioteca `curses` já vem embutida por padrão na instalação do Python.
 Abra o seu terminal, navegue até a pasta do projeto e rode:
 
 ```bash
@@ -36,6 +54,8 @@ pip install windows-curses
 ```bash
 python main.py
 ```
+---
+
 ## Como jogar
 1. No Menu Principal, pressione `1` para iniciar o expediente.
 2. A cada rodada, você verá:
